@@ -1,2 +1,2 @@
 # Notebooks-Colab
-Estudos aleatórios
+Estudos aleatórios com dados retirados do kaggle.
